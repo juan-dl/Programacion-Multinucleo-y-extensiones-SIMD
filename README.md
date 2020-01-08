@@ -1,1 +1,1 @@
-# Programación Multinúcleo e extensións SIMD
+# Programación Multinúcleo y extensiones SIMD
