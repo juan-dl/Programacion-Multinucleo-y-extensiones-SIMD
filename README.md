@@ -1,1 +1,1 @@
-# ProyectoGranja
+# Programación Multinúcleo e extensións SIMD
